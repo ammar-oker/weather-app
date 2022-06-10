@@ -1,6 +1,6 @@
 # Weather App
 
-### (This app is Live! Try it out)[https://weather-app-0121.netlify.app/]
+### [This app is Live! Try it out](https://weather-app-0121.netlify.app/)
 
 
 ## Tech Stack
