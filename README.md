@@ -8,15 +8,7 @@
 - React.js, Typescript
 - `@emotion/styled` for styling (no design library is used)
 - `@apollo/client` to manage GraphQL queries.
-- [amCharts weather icons](https://www.amcharts.com/free-animated-svg-weather-icons/) - I used this icons set because not all weather conditions are covered by the provided design.
-
-## Features Covered
-
-- Main functionality.
-- User can change temperature units (metrics, imperial, kelvin).
-- Refresh data every 5 minutes.
-
-*Didn't have the time to cover the features.
+- [amCharts weather icons](https://www.amcharts.com/free-animated-svg-weather-icons/)
 
 ## Available Scripts
 
